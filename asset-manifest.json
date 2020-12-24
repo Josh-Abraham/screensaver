@@ -1,24 +1,29 @@
 {
   "files": {
-    "main.css": "/screensaver/static/css/main.e116cc8f.chunk.css",
-    "main.js": "/screensaver/static/js/main.95fff351.chunk.js",
-    "main.js.map": "/screensaver/static/js/main.95fff351.chunk.js.map",
-    "runtime-main.js": "/screensaver/static/js/runtime-main.35b0fe9d.js",
-    "runtime-main.js.map": "/screensaver/static/js/runtime-main.35b0fe9d.js.map",
-    "static/js/2.12750c14.chunk.js": "/screensaver/static/js/2.12750c14.chunk.js",
-    "static/js/2.12750c14.chunk.js.map": "/screensaver/static/js/2.12750c14.chunk.js.map",
-    "static/js/3.e384329d.chunk.js": "/screensaver/static/js/3.e384329d.chunk.js",
-    "static/js/3.e384329d.chunk.js.map": "/screensaver/static/js/3.e384329d.chunk.js.map",
+    "main.css": "/screensaver/static/css/main.9c1b5122.chunk.css",
+    "main.js": "/screensaver/static/js/main.3fb3dfdf.chunk.js",
+    "main.js.map": "/screensaver/static/js/main.3fb3dfdf.chunk.js.map",
+    "runtime-main.js": "/screensaver/static/js/runtime-main.8d54ef60.js",
+    "runtime-main.js.map": "/screensaver/static/js/runtime-main.8d54ef60.js.map",
+    "static/js/2.d7c5d17f.chunk.js": "/screensaver/static/js/2.d7c5d17f.chunk.js",
+    "static/js/2.d7c5d17f.chunk.js.map": "/screensaver/static/js/2.d7c5d17f.chunk.js.map",
+    "static/js/3.c3d1e921.chunk.js": "/screensaver/static/js/3.c3d1e921.chunk.js",
+    "static/js/3.c3d1e921.chunk.js.map": "/screensaver/static/js/3.c3d1e921.chunk.js.map",
     "index.html": "/screensaver/index.html",
-    "static/css/main.e116cc8f.chunk.css.map": "/screensaver/static/css/main.e116cc8f.chunk.css.map",
-    "static/js/2.12750c14.chunk.js.LICENSE.txt": "/screensaver/static/js/2.12750c14.chunk.js.LICENSE.txt",
+    "static/css/main.9c1b5122.chunk.css.map": "/screensaver/static/css/main.9c1b5122.chunk.css.map",
+    "static/js/2.d7c5d17f.chunk.js.LICENSE.txt": "/screensaver/static/js/2.d7c5d17f.chunk.js.LICENSE.txt",
+    "static/media/Close Waterfall.6c23fa93.mp3": "/screensaver/static/media/Close Waterfall.6c23fa93.mp3",
+    "static/media/Distant Waterfall.0fd6e9ec.mp3": "/screensaver/static/media/Distant Waterfall.0fd6e9ec.mp3",
+    "static/media/Fire.f4c6f4c6.mp3": "/screensaver/static/media/Fire.f4c6f4c6.mp3",
     "static/media/Rain.b5c3b1ed.mp3": "/screensaver/static/media/Rain.b5c3b1ed.mp3",
-    "static/media/Stream.64c0fd5e.mp3": "/screensaver/static/media/Stream.64c0fd5e.mp3"
+    "static/media/Stream.64c0fd5e.mp3": "/screensaver/static/media/Stream.64c0fd5e.mp3",
+    "static/media/Summer Night.ae7ba899.mp3": "/screensaver/static/media/Summer Night.ae7ba899.mp3",
+    "static/media/Waves.264674d5.mp3": "/screensaver/static/media/Waves.264674d5.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.35b0fe9d.js",
-    "static/js/2.12750c14.chunk.js",
-    "static/css/main.e116cc8f.chunk.css",
-    "static/js/main.95fff351.chunk.js"
+    "static/js/runtime-main.8d54ef60.js",
+    "static/js/2.d7c5d17f.chunk.js",
+    "static/css/main.9c1b5122.chunk.css",
+    "static/js/main.3fb3dfdf.chunk.js"
   ]
 }
