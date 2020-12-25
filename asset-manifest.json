@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/screensaver/static/css/main.9c1b5122.chunk.css",
-    "main.js": "/screensaver/static/js/main.fcd57e15.chunk.js",
-    "main.js.map": "/screensaver/static/js/main.fcd57e15.chunk.js.map",
+    "main.js": "/screensaver/static/js/main.d23a50f6.chunk.js",
+    "main.js.map": "/screensaver/static/js/main.d23a50f6.chunk.js.map",
     "runtime-main.js": "/screensaver/static/js/runtime-main.8d54ef60.js",
     "runtime-main.js.map": "/screensaver/static/js/runtime-main.8d54ef60.js.map",
     "static/js/2.d7c5d17f.chunk.js": "/screensaver/static/js/2.d7c5d17f.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.8d54ef60.js",
     "static/js/2.d7c5d17f.chunk.js",
     "static/css/main.9c1b5122.chunk.css",
-    "static/js/main.fcd57e15.chunk.js"
+    "static/js/main.d23a50f6.chunk.js"
   ]
 }
